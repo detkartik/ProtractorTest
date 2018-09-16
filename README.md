@@ -4,11 +4,15 @@ branch : branch 2
 
 User Guide -
 1.Import the project to Eclipse
+
 2.Install node js
+
 3.Install protractor using below command -
   npm install -g protractor 
+
 4.Install/update webdriver-manager - 
 webdriver-manager update 
+
 5.To start webdriver -  
 webdriver-manager start 
 
